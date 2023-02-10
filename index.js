@@ -7,3 +7,6 @@ let name3 = "Mahima Rahman"
 let era3vaibon = name+name2+name3;
 
 console.log(era3vaibon);
+
+
+console.log('end');
